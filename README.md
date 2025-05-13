@@ -1,1 +1,1 @@
-Deployed Site: https://kzhangt.github.io/portfolio/
+Deployed Site: https://kzhangt.github.io/projects/
